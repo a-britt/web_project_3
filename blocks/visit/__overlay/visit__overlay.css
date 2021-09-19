@@ -1,0 +1,9 @@
+.visit__overlay {
+    transition: background-color 1.5s;
+    height: 100%;
+    width: 100%;
+}
+
+.visit__overlay:hover {
+    background-color: rgba(0, 0, 0, .5);
+}

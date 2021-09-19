@@ -1,0 +1,20 @@
+.place__artist {
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #aaa;
+    grid-area: artist;
+    margin-top: 199px;
+    margin-bottom: 8px;
+}
+
+
+.place__artist span {
+    font-size: 18px;
+    display: table;
+    color: #fff;
+    text-transform: none;
+   
+}

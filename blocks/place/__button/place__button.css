@@ -1,0 +1,19 @@
+.place__button {
+    background-color: #0278fe;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    max-width: 248px;
+    height: 48px;
+    grid-area: button;
+    padding: 13px 20px;
+    text-decoration: none;
+    transition: background-color 1.5s;
+}
+
+
+
+.place__button:hover {
+    background-color: #0063d2;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.place {
+    margin: 0px 148px 92px 148px;
+    display: grid;
+    grid-template-columns: 460px 1fr;
+    grid-template-areas: 
+    "title artist"
+    "image text"
+    "button text";
+    gap: 40px 40px;
+}
