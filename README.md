@@ -1,7 +1,7 @@
 # Project 3: From Homeland to Homeland
 ### Overview  
 * Intro  
-*Technologies
+* Technologies
 * GitHub Pages
   
 **Intro**    
@@ -11,10 +11,10 @@ This is a project that showcases the hometowns of some of Practicum's employees.
  
  **Technologies**
 Some of the main technologies used to complete this project are:
-*HTML
-*CSS
-*Flexbox
-*Grid
+* HTML
+* CSS
+* Flexbox
+* Grid
 
 **GitHub Pages**
 A link for the GitHub Page:
