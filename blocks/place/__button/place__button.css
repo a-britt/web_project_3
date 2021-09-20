@@ -8,6 +8,7 @@
     grid-area: button;
     padding: 13px 20px;
     font-size: 18px;
+    line-height: 1.2;
     text-decoration: none;
     transition: background-color 1.5s;
 }
@@ -18,3 +19,9 @@
     background-color: #0063d2;
     cursor: pointer;
 }
+
+@media screen and (max-width: 320px) {
+    .place__button {
+       max-width: 280px;
+    }
+ }

@@ -7,9 +7,17 @@
 }
 
 @media screen and (max-width: 768px) {
-    .gallery__container{
+    .gallery__container {
         grid-template-columns: repeat(2, 352px);
         grid-template-rows: repeat(4, 264px);
         margin: 0px 24px 88px 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .gallery__container {
+        grid-template-columns: repeat(1, 288px);
+        gap: 12px;
+        margin: 0px 16px 64px 16px;
     }
 }

@@ -13,3 +13,11 @@
         padding: 246px 56px 32px 56px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .visit__title {
+       font-size: 32px;
+       line-height: 1.1;
+       padding: 46px 16px 10px 16px;
+    }
+ }

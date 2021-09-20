@@ -4,9 +4,16 @@
     font-style: normal;
     line-height: 1.2;
     text-align: center;
-    margin: 0px;
+    margin: 0 auto;
 }
 
 .visit__info span {
     display: block;
+}
+
+@media screen and (max-width: 768px) {
+    .visit__info {
+        font-size: 14px;
+        line-height: 1.1;
+    }
 }

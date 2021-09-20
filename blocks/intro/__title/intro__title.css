@@ -11,3 +11,10 @@
         margin: 0px 24px 40px 24px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .intro__title {
+        font-size: 32px;
+        margin: 0px 16px 40px 16px;
+    }
+}

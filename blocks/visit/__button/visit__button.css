@@ -23,3 +23,9 @@
     background-color: #0063d2;
     cursor: pointer;
 }
+
+@media screen and (max-width: 320px) {
+    .visit__button {
+        margin: 16px auto 0px auto;
+    }
+}
