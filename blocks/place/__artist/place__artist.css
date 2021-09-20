@@ -8,6 +8,7 @@
     grid-area: artist;
     margin-top: 199px;
     margin-bottom: 8px;
+    letter-spacing: 0.12em;
 }
 
 
@@ -16,5 +17,10 @@
     display: table;
     color: #fff;
     text-transform: none;
-   
+}
+
+@media screen and (max-width: 768px) {
+    .place__artist {
+        margin: 0px 60px 48px 28px;
+    }
 }

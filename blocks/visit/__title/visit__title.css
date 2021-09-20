@@ -7,3 +7,9 @@
     padding: 243px 264px 32px 264px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+    .visit__title {
+        padding: 246px 56px 32px 56px;
+    }
+}

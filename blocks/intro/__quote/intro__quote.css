@@ -5,3 +5,9 @@
     line-height: 1.4;
     margin: 0px 442px 10px 148px;
 }
+
+@media screen and (max-width: 768px) {
+    .intro__quote {
+        margin: 0px 24px 10px 24px;
+    }
+}

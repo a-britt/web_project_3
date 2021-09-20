@@ -5,3 +5,11 @@
     gap: 16px;
     margin: 0px 48px 92px 48px;
 }
+
+@media screen and (max-width: 768px) {
+    .gallery__container{
+        grid-template-columns: repeat(2, 352px);
+        grid-template-rows: repeat(4, 264px);
+        margin: 0px 24px 88px 24px;
+    }
+}

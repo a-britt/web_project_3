@@ -3,3 +3,10 @@
     max-height: 615px;
     margin: 0px 148px 92px 148px;
 }
+
+@media screen and (max-width: 768px) {
+    .lead__image {
+        width: 100%;
+        margin: 0px 0px 88px 0px;
+    }
+}

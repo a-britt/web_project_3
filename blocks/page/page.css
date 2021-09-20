@@ -6,3 +6,9 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     max-width: 1280px;
 }
+
+@media screen and (max-width: 768px) {
+    .page {
+        max-width: 768px;
+    }
+}

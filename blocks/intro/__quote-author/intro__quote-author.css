@@ -4,4 +4,11 @@
     font-style: normal;
     line-height: 1.4;
     margin: 0px 442px 32px 148px;
+    text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__quote-author {
+        margin: 0px 24px 32px 24px;
+    }
 }
