@@ -1,13 +1,10 @@
 .visit__button {
-    margin: 32px auto 243px auto;
     padding: 13px 20px;
     border-radius: 4px;
     border: none;
+    display: inline-block;
     background-color: #0278fe;
     color: #fff;
-    display: flex;
-    justify-self: center;
-    align-self: center;
     width: 137px;
     height: 48px;
     font-size: 18px;

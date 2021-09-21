@@ -1,7 +1,11 @@
 .visit {
-    background-image: url(/images/__visit-background.png);
+    background-image: url(../../images/__visit-background.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin: 0px 48px 92px 48px;
     height: 740px;
 }
@@ -9,7 +13,7 @@
 @media screen and (max-width: 768px) {
     .visit {
         height: 746px;
-        width: 100%;
+        width: 768px;
         margin: 0px 0px 88px 0px;
     }
 }
