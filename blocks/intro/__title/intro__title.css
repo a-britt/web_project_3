@@ -1,9 +1,11 @@
 .intro__title {
     font-size: 54px;
+    font-family: 'Inter-Bold', Arial, Helvetica, sans-serif;
     font-weight: 900;
     font-style: normal;
     line-height: 1.1;
     margin: 0px 347px 40px 148px;
+    text-align: left;
 }
 
 @media screen and (max-width: 768px) {

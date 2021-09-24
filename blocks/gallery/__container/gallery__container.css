@@ -3,14 +3,16 @@
     grid-template-columns: repeat(4, 284px);
     grid-template-rows: repeat(2, 213px);
     gap: 16px;
-    margin: 0px 48px 92px 48px;
+    margin: 0px auto 92px auto;
+    max-width: 1184px;
 }
 
 @media screen and (max-width: 768px) {
     .gallery__container {
         grid-template-columns: repeat(2, 352px);
         grid-template-rows: repeat(4, 264px);
-        margin: 0px 24px 88px 24px;
+        margin: 0px auto 88px auto;
+        max-width: 720px;
     }
 }
 
@@ -18,6 +20,7 @@
     .gallery__container {
         grid-template-columns: repeat(1, 288px);
         gap: 12px;
-        margin: 0px 16px 64px 16px;
+        margin: 0px auto 64px auto;
+        max-width: 288px;
     }
 }

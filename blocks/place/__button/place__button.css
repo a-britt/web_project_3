@@ -1,18 +1,22 @@
 .place__button {
-    background-color: #0278fe;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    max-width: 248px;
-    height: 48px;
-    grid-area: button;
     padding: 13px 20px;
+    border-radius: 4px;
+    border: none;
+    display: block;
+    background-color: #0278fe;
+    color: #fff;
+    width: 248px;
+    height: fit-content;
     font-size: 18px;
+    font-weight: 600;
+    font-family: 'Inter-SemiBold', Arial, Helvetica, sans-serif;
     line-height: 1.2;
+    margin: 0;
     text-decoration: none;
+    font-style: normal;
+    text-align: center;
     transition: background-color 1.5s;
 }
-
 
 
 .place__button:hover {
