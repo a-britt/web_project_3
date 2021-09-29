@@ -1,18 +1,18 @@
 .gallery {
-    max-width: 1184px;
+    max-width: 92.5%;
     margin: 0px auto 92px auto;
 }
 
 @media screen and (max-width: 768px) {
     .gallery {
-        margin: 0px auto 88px auto;
-        max-width: 720px;
+        margin: 0px auto 8.8rem auto;
+        max-width: 93.75%;
     }
 }
 
 @media screen and (max-width: 320px) {
     .gallery {
-        margin: 0px auto 64px auto;
-        max-width: 288px;
+        margin: 0px auto 6.4rem auto;
+        max-width: 90%;
     }
 }

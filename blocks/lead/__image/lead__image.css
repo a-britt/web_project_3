@@ -1,22 +1,19 @@
 .lead__image {
-    width: 980px;
-    height: 615px;
-    margin: 0px auto 108px auto;
+    min-width: 76.87%;
+    margin: 0px auto 10.8rem auto;
     display: block;
     text-align: center;
 }
 
 @media screen and (max-width: 768px) {
     .lead__image {
-        width: 100%;
-        height: 450px;
-        margin: 0px 0px 88px 0px;
+        max-width: 100%;
+        margin: 0px 0px 8.8rem 0px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead__image {
-        height: 187px;
-        margin-bottom: 64px;
+        margin-bottom: 6.4rem;
     }
 }

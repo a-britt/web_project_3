@@ -1,18 +1,18 @@
 .header {
     display: flex;
     justify-content: center;
-    margin: 0 auto;
-    margin: 34px auto 76px auto;
+    margin: 2.125em auto 4.75em auto;
 }
+
 
 @media screen and (max-width: 768px) {
     .header {
-        margin: 34px auto 88px auto;
+        margin: 2.125em auto 5.5em auto;
     }
 }
 
 @media screen and (max-width: 320px) {
     .header {
-        margin: 20px auto 50px auto;
+        margin: 1.25em auto 3.125em auto;
     }
 }

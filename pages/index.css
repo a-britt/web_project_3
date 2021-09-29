@@ -69,3 +69,18 @@
 
 /****** FOOTER SECTION STYLES ******/
 @import url(../blocks/footer/footer.css);
+
+
+
+
+/****** ROOT PAGE STYLES ******/
+
+/* 10px */
+html {
+    font-size: 62.5%;
+}
+
+/* 16px */
+body {
+    font-size: 1.6rem;
+}

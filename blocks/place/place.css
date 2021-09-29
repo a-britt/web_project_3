@@ -1,19 +1,20 @@
 .place {
-    margin: 0px 148px 92px 148px;
+    max-width: 77.1%;
+    margin: 0px auto 9.2rem auto;
     display: grid;
     grid-template-columns: 460px 1fr;
     grid-template-areas: 
     "title artist"
     "image text"
     "button text";
-    gap: 40px 40px;
+    gap: 4rem 4rem;
 }
 
 @media screen and (max-width: 768px) {
     .place {
-        margin: 0px 24px 88px 24px;
+        margin: 0px auto 8.8rem auto;
         grid-template-columns: 340px 1fr;
-        gap: 48px 32px;
+        gap: 4.8rem 3.2rem;
     }
 }
 
