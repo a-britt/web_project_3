@@ -5,13 +5,13 @@
     display: block;
     background-color: #0278fe;
     color: #fff;
-    width: 137px;
+    width: 13.7rem;
     height: fit-content;
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: 600;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     line-height: 1.2;
-    margin: 32px auto 0px auto;
+    margin: 3.2rem auto 0px auto;
     text-decoration: none;
     font-style: normal;
     text-align: center;
@@ -25,6 +25,6 @@
 
 @media screen and (max-width: 320px) {
     .visit__button {
-        margin: 16px auto 0px auto;
+        margin: 1.6rem auto 0px auto;
     }
 }

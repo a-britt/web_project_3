@@ -1,5 +1,5 @@
 .visit__info {
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: 400;
     font-style: normal;
     line-height: 1.2;
@@ -13,7 +13,7 @@
 
 @media screen and (max-width: 768px) {
     .visit__info {
-        font-size: 14px;
+        font-size: 1.4rem;
         line-height: 1.1;
     }
 }

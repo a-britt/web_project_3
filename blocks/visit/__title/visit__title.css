@@ -1,23 +1,23 @@
 .visit__title {
-    font-size: 72px;
+    font-size: 7.2rem;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 900;
     font-style: normal;
     line-height: 1;
     text-align: center;
-    margin: 243px auto 32px auto;
+    margin: 24.3rem auto 3.2rem auto;
 }
 
 @media screen and (max-width: 768px) {
     .visit__title {
-        margin: 246px auto 32px auto;
+        margin: 24.6rem auto 3.2rem auto;
     }
 }
 
 @media screen and (max-width: 320px) {
     .visit__title {
-       font-size: 32px;
+       font-size: 3.2rem;
        line-height: 1.1;
-       margin: 46px 16px 10px 16px;
+       margin: 4.6rem auto 1rem auto;
     }
  }
