@@ -3,19 +3,18 @@
     font-weight: 400;
     font-style: normal;
     line-height: 1.6;
-    margin: 0px 44.2rem 11.8rem 14.8rem;
+    margin: 0px 95px 118px 0px;
+    max-width: 100%;
 }
 
 @media screen and (max-width: 768px) {
     .intro__description {
-        margin: 0px auto 8.8rem auto;
-        max-width: 93.75%;
+       margin: 0px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .intro__description {
-        margin: 0px auto 9rem auto;
-        max-width: 90%;
+        margin: 0px;
     }
 }

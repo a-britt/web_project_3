@@ -6,13 +6,15 @@
     line-height: 1;
     margin: 0;
     grid-area: title;
-    height: fit-content;
+    max-width: 100%;
+    padding-right: 6px;
 }
 
 @media screen and (max-width: 768px) {
     .place__title {
         font-size: 4.2rem;
         line-height: 1.1;
+        padding-right: 0px;
     }
 }
 
@@ -20,6 +22,5 @@
     .place__title {
         font-size: 3.2rem;
         line-height: 1.1;
-        text-align: left;
     }
 }

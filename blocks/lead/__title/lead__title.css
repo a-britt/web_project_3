@@ -5,21 +5,20 @@
     text-align: center;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     line-height: 1;
-    margin: 0px auto 3.2rem auto;
-    min-width: 61.95%;
+    margin: 0px 107px 32px 84px;
+    max-width: 100%
 }
 
 @media screen and (max-width: 768px) {
     .lead__title {
-        max-width: 93.75%;
+        margin: 0px 0px 32px 0px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead__title {
-        max-width: 90%;
-        margin: 0px auto 4rem auto;
         font-size: 4rem;
         line-height: 1.1;
+        margin: 0px 0px 16px 0px;
     }
 }
