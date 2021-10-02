@@ -1,0 +1,26 @@
+.place__container {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "title artist"
+    "image text"
+    "button text";
+    gap: 48px 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__container {
+        margin: 0px 0px 72px 0px;
+        gap: 48px 28px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__container {
+        display: flex;
+        flex-direction: column;
+        margin: 0px 0px 48px 0px;
+        column-gap: 12px;
+    }
+}

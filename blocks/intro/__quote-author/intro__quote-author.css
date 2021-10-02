@@ -7,3 +7,16 @@
     text-align: right;
     max-width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+    .intro__quote-author {
+        margin: 0px 24px 10px 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro__quote-author {
+        line-height: 1.25;
+        margin: 0px 16px 10px 16px;
+    }   
+}
