@@ -6,10 +6,9 @@
     text-transform: none;
     grid-area: artist;
     display: table;
-    margin: 0px;
     max-height: 45px;
+    margin: 0px;
 }
-
 
 .place__artist span {
     font-size: 1.2rem;
@@ -19,16 +18,18 @@
     text-transform: uppercase;
     color: #aaa;
     grid-area: artist;
-    margin-bottom: 0px;
     letter-spacing: 0.12em;
     display: table;
+    margin: 0px 0px 8px 0px;
 }
-
-
 
 @media screen and (max-width: 320px) {
     .place__artist {
         font-size: 1.2rem;
         line-height: 1;
+        margin: 0px 0px 0px 0px;
+    }
+    .place__artist span {
+        margin-bottom: 12px;
     }
 }
