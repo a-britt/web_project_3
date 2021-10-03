@@ -5,7 +5,7 @@
     grid-template-areas: 
     "title artist"
     "image text"
-    "button text";
+    "button text-second";
     gap: 48px 40px;
     margin: 0px 0px 80px 0px;
 }

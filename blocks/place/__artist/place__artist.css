@@ -5,10 +5,12 @@
     color: #fff;
     text-transform: none;
     grid-area: artist;
-    display: table;
     max-height: 45px;
     margin: 0px;
+    display: table;
 }
+
+
 
 .place__artist span {
     font-size: 1.2rem;
@@ -19,8 +21,8 @@
     color: #aaa;
     grid-area: artist;
     letter-spacing: 0.12em;
-    display: table;
     margin: 0px 0px 8px 0px;
+    display: table;
 }
 
 @media screen and (max-width: 320px) {
