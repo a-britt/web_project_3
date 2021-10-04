@@ -17,11 +17,20 @@
     }
 }
 
+@media screen and (max-width: 530px) {
+    .place__container {
+        display: flex;
+        flex-direction: column;
+        margin: 0px 0px 48px 0px;
+        gap: 12px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__container {
         display: flex;
         flex-direction: column;
         margin: 0px 0px 48px 0px;
-        column-gap: 12px;
+        gap: 12px;
     }
 }

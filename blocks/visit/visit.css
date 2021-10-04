@@ -18,6 +18,13 @@
     }
 }
 
+@media screen and (max-width: 530px) {
+    .visit {
+        max-height: 373px;
+        margin: 0px 0px 32px 0px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .visit {
         max-height: 254px;

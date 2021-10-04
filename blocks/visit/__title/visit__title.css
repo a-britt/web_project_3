@@ -14,6 +14,14 @@
     }
 }
 
+@media screen and (max-width: 530px) {
+    .visit__title {
+       font-size: 3.2rem;
+       line-height: 1.1;
+       margin: 46px auto 10px auto;
+    }
+ }
+
 @media screen and (max-width: 320px) {
     .visit__title {
        font-size: 3.2rem;

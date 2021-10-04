@@ -23,6 +23,12 @@
     cursor: pointer;
 }
 
+@media screen and (max-width: 530px) {
+    .visit__button {
+        margin: 16px auto 45px auto;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .visit__button {
         margin: 16px auto 45px auto;
