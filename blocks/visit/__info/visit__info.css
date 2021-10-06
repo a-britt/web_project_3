@@ -7,10 +7,6 @@
     margin: 0 auto;
 }
 
-.visit__info span {
-    display: block;
-}
-
 @media screen and (max-width: 768px) {
     .visit__info {
         font-size: 1.4rem;

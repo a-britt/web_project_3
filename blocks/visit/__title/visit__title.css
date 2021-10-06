@@ -4,13 +4,12 @@
     font-weight: 900;
     font-style: normal;
     line-height: 1;
-    text-align: center;
-    margin: 243px auto 32px auto;
+    margin: 0px auto 32px auto;
 }
 
 @media screen and (max-width: 768px) {
     .visit__title {
-        margin: 246px auto 32px auto;
+        margin: 0px auto 32px auto;
     }
 }
 
@@ -18,14 +17,6 @@
     .visit__title {
        font-size: 3.2rem;
        line-height: 1.1;
-       margin: 46px auto 10px auto;
-    }
- }
-
-@media screen and (max-width: 320px) {
-    .visit__title {
-       font-size: 3.2rem;
-       line-height: 1.1;
-       margin: 46px auto 10px auto;
+       margin: 0px auto 10px auto;
     }
  }

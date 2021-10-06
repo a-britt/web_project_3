@@ -3,11 +3,11 @@
     font-weight: 400;
     font-style: normal;
     line-height: 1.4;
-    margin: 0px 95px 10px 0px;
+    margin: 0px 34.5% 10px 0px;
     max-width: 100%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 950px) {
     .intro__quote {
         margin: 0px 24px 10px 24px;
     }

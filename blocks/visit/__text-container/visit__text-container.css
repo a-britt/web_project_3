@@ -1,0 +1,26 @@
+.visit__text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 740px;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .visit__text-container {
+        min-height: 746px;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .visit__text-container {
+        min-height: 373px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .visit__text-container {
+        min-height: 254px;
+    }
+}
