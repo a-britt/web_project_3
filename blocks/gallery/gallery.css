@@ -2,7 +2,7 @@
     margin: 0px 48px 92px 48px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
     .gallery {
         margin: 0px 24px 88px 24px;
     }
