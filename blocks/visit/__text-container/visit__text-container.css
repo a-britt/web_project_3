@@ -5,6 +5,12 @@
     align-items: center;
     min-height: 740px;
     width: 100%;
+    transition: background-color 1.5s;
+    background-color: rgba(42, 44, 47, .3);
+}
+
+.visit__text-container:hover {
+    background-color: rgba(42, 44, 47, .8);
 }
 
 @media screen and (max-width: 768px) {
