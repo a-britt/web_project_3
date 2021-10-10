@@ -4,13 +4,9 @@
     font-style: normal;
     line-height: 1.6;
     margin-top: 0px;
-    margin-bottom: 25px;
+    margin-bottom: 0px;
     grid-area: text-second;
     max-width: 100%;
- }
- 
- .place__description-second {
-    margin-bottom: 0px;
  }
  
  @media screen and (max-width: 768px) {
