@@ -14,12 +14,7 @@
 
 /****** HEADER SECTION STYLES ******/
 @import url(../blocks/header/header.css);
-
-
-
-
-/****** LOGO SECTION STYLES ******/
-@import url(../blocks/logo/__image/logo__image.css);
+@import url(../blocks/header/__logo/header__logo.css);
 
 
 
