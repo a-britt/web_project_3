@@ -9,6 +9,13 @@
     align-items: center;
     margin: 0px 48px 92px 48px;
     min-height: 740px;
+    max-width: 1280px;
+}
+
+@media screen and (min-width: 1280px) {
+    .visit {
+        margin: 0px auto 92px auto;
+    }
 }
 
 @media screen and (max-width: 768px) {

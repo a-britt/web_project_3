@@ -4,9 +4,15 @@
     font-weight: 900;
     font-style: normal;
     line-height: 1.1;
-    margin: 0px 22% 40px 0px;
+    margin: 0px 347px 40px 0px;
     text-align: left;
     max-width: 785px;
+}
+
+@media screen and (min-width: 1280px) {
+    .intro__title {
+        margin: 0px 347px 40px 0px;
+    }
 }
 
 @media screen and (max-width: 950px) {

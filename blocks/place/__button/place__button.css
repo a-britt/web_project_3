@@ -18,7 +18,6 @@
     transition: background-color 1.5s;
 }
 
-
 .place__button:hover {
     background-color: #0063d2;
     cursor: pointer;
