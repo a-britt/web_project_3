@@ -12,7 +12,7 @@
     position: relative;
 }
 
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1000px) {
     .place {
         margin: 0px 0px 40px 0px;
         gap: 48px 28px;
